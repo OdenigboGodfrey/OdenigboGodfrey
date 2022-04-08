@@ -15,12 +15,12 @@
 > exploring new innovations in ICT and readily available to work with a team of developers to learn and share experiences.  
 
 * 📱 Software developer :computer: specializing in Backend applications
-* 💻 Loves publishing [open source software on GitHub](https://github.com/RaphAlemoh?tab=repositories). :cloud:
 * 🎮 Loves playing music and games  🎤 Also loves movies and TedTalk show.
 * 👀 I have practical backend knowledge on the following: NodeJs, NestJs, Laravel, ASP.Net
 * 👀 I’m have practical knowledge in the following Databases: MySql,MongoDB,MSSQL,Postgres,Oracle, SQLite
 * 👀 I’m have practical frontend knowledge on the following:  ReactJs, Flutter
-* 🌱 Mobile Application Building :Cross Platform applications using Flutter
+* 🌱 I’m currently learning: Rust Lang, Solana
+* 🌱 I'm interested in learning: AWS Architecting, Robotics, Machine Learning
 * 📫 How to reach me: :email: odenigbogodfrey@yahoo.com
 * 💬 Ask me about: web and mobile applications
 * 🤔 I’m looking for help with remote job :package:
