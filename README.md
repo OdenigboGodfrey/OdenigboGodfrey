@@ -11,7 +11,7 @@
 
 > I'm a skilled, solution-focused Web Developer with experience designing, developing and managing web applications.
 > Consistent and reliable with technical knowledge and a passion for learning and adapting to new technology, i possess a
-> good working knowledge in using Version Control System like GitHub, PaaS service like Herokuapp. I love 
+> good working knowledge in using Version Control System like GitHub, Cloud Provider services like Heroku, Digital Ocean. I love 
 > exploring new innovations in ICT and readily available to work with a team of developers to learn and share experiences.  
 
 * 📱 Software developer :computer: specializing in Backend applications
