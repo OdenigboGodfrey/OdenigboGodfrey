@@ -27,6 +27,6 @@
 * 🤔 I’m looking for help with remote job :package:
 * :sparkles: Innovative and  :thought_balloon: Problem Solving developer
 
-* :link: [Portfolio](https://godfrey.o.goveratech.com/) 
+
 
 * 😁 Nice to meet you! :green_heart:
