@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/50171324?v=4" width="250" height="250" alt="Alemsbaja" align="right" style="margin: auto; border-radius: 50%; border: #49a80a 3px solid;" />
+<img src="https://avatars.githubusercontent.com/u/50171324?v=4" width="250" height="250" alt="Odenigbo Godfrey" align="right" style="margin: auto; border-radius: 50%; border: #49a80a 3px solid;" />
 </p>
 
 # Hi there 👋 Good day! I'm Godfrey Odenigbo.
